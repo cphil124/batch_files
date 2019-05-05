@@ -1,0 +1,6 @@
+ls=dir $* $T
+up=cd.. $T
+ex=exit $T
+np=notepad
+test=test\Scripts\activate
+dkm=doskey/macros
